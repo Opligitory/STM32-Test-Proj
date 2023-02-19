@@ -1,0 +1,3 @@
+[submodule ".dev_env"]
+	path = .dev_env
+	url = git@github.com:Opligitory/stm32-dev-env-deploy.git
